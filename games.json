@@ -1,0 +1,1802 @@
+[
+    {
+        "name": "Resident Evil Village: Origins",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Xbox, Switch, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "Terraria: Origins",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Final Fantasy VII Remake",
+        "genre": "RPG",
+        "platforms": "PlayStation, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Monster Hunter: World: Tactics",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Destiny 2: Chronicles",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Adventures",
+        "genre": "Platformer",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "It Takes Two: Adventures",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Resident Evil Village: Odyssey",
+        "genre": "Horror",
+        "platforms": "Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Destiny 2: Quest",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Genshin Impact: Legends",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "competitive"
+    },
+    {
+        "name": "Red Dead Redemption 2: Saga",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation",
+        "mood": "immersive"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Chronicles",
+        "genre": "Shooter",
+        "platforms": "PC, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Subnautica: Adventures",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Stardew Valley: Arena",
+        "genre": "Simulation",
+        "platforms": "Xbox, Mobile",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Valorant: Saga",
+        "genre": "Shooter",
+        "platforms": "PC, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "God of War: Frontiers",
+        "genre": "Action",
+        "platforms": "PC, PlayStation",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Genshin Impact: Adventures",
+        "genre": "RPG",
+        "platforms": "PlayStation, Xbox, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Celeste: Arena",
+        "genre": "Platformer",
+        "platforms": "PC, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Minecraft: Tactics",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation",
+        "mood": "wholesome"
+    },
+    {
+        "name": "God of War: Adventures",
+        "genre": "Action",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Overwatch",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Frontiers",
+        "genre": "Platformer",
+        "platforms": "PlayStation",
+        "mood": "cozy"
+    },
+    {
+        "name": "Slay the Spire: Chronicles",
+        "genre": "Strategy",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Overwatch: Saga",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Ori and the Will of the Wisps",
+        "genre": "Platformer",
+        "platforms": "PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Red Dead Redemption 2: Origins",
+        "genre": "Adventure",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Minecraft",
+        "genre": "Sandbox",
+        "platforms": "PC, Xbox",
+        "mood": "casual"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "platforms": "Switch, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Monster Hunter: World: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "God of War: Quest",
+        "genre": "Action",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Super Mario Odyssey: Legends",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "casual"
+    },
+    {
+        "name": "League of Legends: Chronicles",
+        "genre": "Strategy",
+        "platforms": "Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Subnautica: Origins",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Cuphead: Frontiers",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Genshin Impact",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Dead by Daylight: Arena",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Destiny 2: Tactics",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Forza Horizon 5: Legends",
+        "genre": "Racing",
+        "platforms": "PC, PlayStation",
+        "mood": "competitive"
+    },
+    {
+        "name": "Red Dead Redemption 2: Chronicles",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Saga",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Terraria: Quest",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "Doom Eternal: Legends",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Celeste",
+        "genre": "Platformer",
+        "platforms": "Xbox, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Quest",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Slay the Spire: Tactics",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Tactics",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Super Mario Odyssey: Tactics",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Hades: Arena",
+        "genre": "Action",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Stardew Valley: Adventures",
+        "genre": "Simulation",
+        "platforms": "Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Portal 2: Arena",
+        "genre": "Puzzle",
+        "platforms": "Xbox, Switch, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Resident Evil Village: Adventures",
+        "genre": "Horror",
+        "platforms": "PC, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Resident Evil Village",
+        "genre": "Horror",
+        "platforms": "PC, Switch",
+        "mood": "spooky"
+    },
+    {
+        "name": "Slay the Spire: Saga",
+        "genre": "Strategy",
+        "platforms": "Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Destiny 2: Saga",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Hollow Knight: Saga",
+        "genre": "Platformer",
+        "platforms": "PC, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Dark Souls III: Saga",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Subnautica",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Celeste: Chronicles",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "cozy"
+    },
+    {
+        "name": "It Takes Two: Quest",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "League of Legends",
+        "genre": "Strategy",
+        "platforms": "PC",
+        "mood": "competitive"
+    },
+    {
+        "name": "Destiny 2: Arena",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Super Mario Odyssey: Saga",
+        "genre": "Platformer",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Valorant",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Monster Hunter: World",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "The Sims 4: Frontiers",
+        "genre": "Simulation",
+        "platforms": "PlayStation, Xbox",
+        "mood": "cozy"
+    },
+    {
+        "name": "It Takes Two: Frontiers",
+        "genre": "Adventure",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Subnautica: Frontiers",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Hades: Frontiers",
+        "genre": "Action",
+        "platforms": "Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Valorant: Tactics",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Super Mario Odyssey: Adventures",
+        "genre": "Platformer",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Terraria: Frontiers",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "casual"
+    },
+    {
+        "name": "Cuphead",
+        "genre": "Platformer",
+        "platforms": "PC",
+        "mood": "cozy"
+    },
+    {
+        "name": "Destiny 2",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Cuphead: Odyssey",
+        "genre": "Platformer",
+        "platforms": "Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "God of War: Chronicles",
+        "genre": "Action",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "It Takes Two: Saga",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Slay the Spire: Frontiers",
+        "genre": "Strategy",
+        "platforms": "PlayStation",
+        "mood": "intense"
+    },
+    {
+        "name": "Celeste: Adventures",
+        "genre": "Platformer",
+        "platforms": "PC, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Slay the Spire: Legends",
+        "genre": "Strategy",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Slay the Spire: Quest",
+        "genre": "Strategy",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Destiny 2: Odyssey",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation",
+        "mood": "competitive"
+    },
+    {
+        "name": "Genshin Impact: Origins",
+        "genre": "RPG",
+        "platforms": "PC, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Resident Evil Village: Legends",
+        "genre": "Horror",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "spooky"
+    },
+    {
+        "name": "Dark Souls III: Quest",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Valorant: Odyssey",
+        "genre": "Shooter",
+        "platforms": "Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Super Mario Odyssey: Chronicles",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation",
+        "mood": "casual"
+    },
+    {
+        "name": "Portal 2: Chronicles",
+        "genre": "Puzzle",
+        "platforms": "Switch",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Dead by Daylight: Tactics",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "The Sims 4",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "genre": "Racing",
+        "platforms": "PC, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "It Takes Two",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Hades: Odyssey",
+        "genre": "Action",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "It Takes Two: Origins",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Portal 2: Frontiers",
+        "genre": "Puzzle",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "Valorant: Adventures",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Super Mario Odyssey: Frontiers",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dark Souls III: Adventures",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Arena",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Legends",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Frontiers",
+        "genre": "Shooter",
+        "platforms": "PlayStation, Xbox, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Among Us: Saga",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Destiny 2: Origins",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Cyberpunk 2077: Arena",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Subnautica: Saga",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Super Mario Odyssey: Origins",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox",
+        "mood": "cozy"
+    },
+    {
+        "name": "Cuphead: Saga",
+        "genre": "Platformer",
+        "platforms": "PC, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Overwatch: Frontiers",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Among Us: Chronicles",
+        "genre": "Simulation",
+        "platforms": "PC",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Terraria: Arena",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Stardew Valley: Chronicles",
+        "genre": "Simulation",
+        "platforms": "PC, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Dark Souls III",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Subnautica: Quest",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation",
+        "mood": "immersive"
+    },
+    {
+        "name": "Terraria: Odyssey",
+        "genre": "Sandbox",
+        "platforms": "PC, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "Slay the Spire",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Among Us",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "relaxing"
+    },
+    {
+        "name": "God of War",
+        "genre": "Action",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Stardew Valley: Odyssey",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Monster Hunter: World: Legends",
+        "genre": "RPG",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Celeste: Saga",
+        "genre": "Platformer",
+        "platforms": "Switch, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Legends",
+        "genre": "RPG",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "genre": "RPG",
+        "platforms": "PlayStation, Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Super Mario Odyssey: Arena",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Valorant: Arena",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Terraria: Chronicles",
+        "genre": "Sandbox",
+        "platforms": "PC, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "God of War: Arena",
+        "genre": "Action",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Arena",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Street Fighter V",
+        "genre": "Fighting",
+        "platforms": "PC, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Hollow Knight",
+        "genre": "Platformer",
+        "platforms": "PC, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Resident Evil Village: Tactics",
+        "genre": "Horror",
+        "platforms": "PC",
+        "mood": "intense"
+    },
+    {
+        "name": "Elden Ring: Legends",
+        "genre": "RPG",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Terraria: Tactics",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Red Dead Redemption 2: Tactics",
+        "genre": "Adventure",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Saga",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "The Sims 4: Legends",
+        "genre": "Simulation",
+        "platforms": "PlayStation, Xbox",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Hades: Tactics",
+        "genre": "Action",
+        "platforms": "PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Cuphead: Quest",
+        "genre": "Platformer",
+        "platforms": "Xbox, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "Forza Horizon 5: Quest",
+        "genre": "Racing",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "Hades: Chronicles",
+        "genre": "Action",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Street Fighter V: Saga",
+        "genre": "Fighting",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "Among Us: Odyssey",
+        "genre": "Simulation",
+        "platforms": "PC, Switch",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Legends",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox, Switch, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Minecraft: Frontiers",
+        "genre": "Sandbox",
+        "platforms": "PlayStation",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Slay the Spire: Adventures",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Overwatch: Adventures",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "League of Legends: Tactics",
+        "genre": "Strategy",
+        "platforms": "PC, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Minecraft: Quest",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Switch, Mobile",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Cyberpunk 2077: Tactics",
+        "genre": "RPG",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Red Dead Redemption 2: Adventures",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Forza Horizon 5: Odyssey",
+        "genre": "Racing",
+        "platforms": "PC, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "Doom Eternal",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt: Frontiers",
+        "genre": "RPG",
+        "platforms": "Xbox, Switch, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dead by Daylight: Adventures",
+        "genre": "Horror",
+        "platforms": "PC, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Forza Horizon 5: Saga",
+        "genre": "Racing",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Saga",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Genshin Impact: Quest",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Super Mario Odyssey: Odyssey",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dead by Daylight: Chronicles",
+        "genre": "Horror",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "Terraria: Legends",
+        "genre": "Sandbox",
+        "platforms": "PC",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Elden Ring",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Among Us: Frontiers",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Elden Ring: Saga",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Dead by Daylight: Frontiers",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "Portal 2",
+        "genre": "Puzzle",
+        "platforms": "PC, Xbox",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Dead by Daylight: Odyssey",
+        "genre": "Horror",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "Forza Horizon 5: Frontiers",
+        "genre": "Racing",
+        "platforms": "PC, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Portal 2: Quest",
+        "genre": "Puzzle",
+        "platforms": "PC, PlayStation",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Destiny 2: Adventures",
+        "genre": "Shooter",
+        "platforms": "Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Adventures",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Among Us: Quest",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Hollow Knight: Quest",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Doom Eternal: Quest",
+        "genre": "Shooter",
+        "platforms": "PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Monster Hunter: World: Chronicles",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Dead by Daylight",
+        "genre": "Horror",
+        "platforms": "PC, Xbox",
+        "mood": "spooky"
+    },
+    {
+        "name": "Doom Eternal: Odyssey",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Tactics",
+        "genre": "Shooter",
+        "platforms": "PlayStation, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "Dark Souls III: Legends",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Cuphead: Tactics",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Terraria: Adventures",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "casual"
+    },
+    {
+        "name": "Red Dead Redemption 2: Quest",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Among Us: Legends",
+        "genre": "Simulation",
+        "platforms": "PC, Switch",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Genshin Impact: Chronicles",
+        "genre": "RPG",
+        "platforms": "PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Stardew Valley: Quest",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Dead by Daylight: Quest",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "spooky"
+    },
+    {
+        "name": "Elden Ring: Origins",
+        "genre": "RPG",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Doom Eternal: Saga",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "Cyberpunk 2077: Saga",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Hades: Quest",
+        "genre": "Action",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Minecraft: Adventures",
+        "genre": "Sandbox",
+        "platforms": "PC",
+        "mood": "casual"
+    },
+    {
+        "name": "Celeste: Odyssey",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Terraria",
+        "genre": "Sandbox",
+        "platforms": "PC, Xbox",
+        "mood": "casual"
+    },
+    {
+        "name": "Cuphead: Chronicles",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "League of Legends: Adventures",
+        "genre": "Strategy",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "League of Legends: Legends",
+        "genre": "Strategy",
+        "platforms": "PlayStation, Xbox, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "God of War: Legends",
+        "genre": "Action",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Overwatch: Odyssey",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Forza Horizon 5: Origins",
+        "genre": "Racing",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dark Souls III: Tactics",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Quest",
+        "genre": "Shooter",
+        "platforms": "PC, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Chronicles",
+        "genre": "Platformer",
+        "platforms": "PC, Switch",
+        "mood": "cozy"
+    },
+    {
+        "name": "Portal 2: Odyssey",
+        "genre": "Puzzle",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Cyberpunk 2077: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Stardew Valley: Tactics",
+        "genre": "Simulation",
+        "platforms": "PlayStation, Switch, Mobile",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Tactics",
+        "genre": "RPG",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Celeste: Frontiers",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "casual"
+    },
+    {
+        "name": "Destiny 2: Frontiers",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Portal 2: Origins",
+        "genre": "Puzzle",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Saga",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Minecraft: Saga",
+        "genre": "Sandbox",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Valorant: Frontiers",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "intense"
+    },
+    {
+        "name": "Red Dead Redemption 2: Frontiers",
+        "genre": "Adventure",
+        "platforms": "PlayStation, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Subnautica: Legends",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Super Mario Odyssey",
+        "genre": "Platformer",
+        "platforms": "PC",
+        "mood": "cozy"
+    },
+    {
+        "name": "Stardew Valley: Saga",
+        "genre": "Simulation",
+        "platforms": "PC, PlayStation",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Hollow Knight: Chronicles",
+        "genre": "Platformer",
+        "platforms": "PC, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Hades: Adventures",
+        "genre": "Action",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Arena",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Subnautica: Tactics",
+        "genre": "Adventure",
+        "platforms": "PlayStation, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Subnautica: Chronicles",
+        "genre": "Adventure",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Resident Evil Village: Saga",
+        "genre": "Horror",
+        "platforms": "Xbox, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Overwatch: Arena",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Resident Evil Village: Quest",
+        "genre": "Horror",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "spooky"
+    },
+    {
+        "name": "Hades: Legends",
+        "genre": "Action",
+        "platforms": "PC",
+        "mood": "intense"
+    },
+    {
+        "name": "Monster Hunter: World: Arena",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Street Fighter V: Chronicles",
+        "genre": "Fighting",
+        "platforms": "PC, PlayStation",
+        "mood": "intense"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Chronicles",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "immersive"
+    },
+    {
+        "name": "Overwatch: Origins",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "God of War: Tactics",
+        "genre": "Action",
+        "platforms": "PC, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Monster Hunter: World: Quest",
+        "genre": "RPG",
+        "platforms": "PlayStation, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "God of War: Origins",
+        "genre": "Action",
+        "platforms": "PC",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Hades",
+        "genre": "Action",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Odyssey",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Valorant: Origins",
+        "genre": "Shooter",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "League of Legends: Arena",
+        "genre": "Strategy",
+        "platforms": "Mobile",
+        "mood": "intense"
+    },
+    {
+        "name": "Resident Evil Village: Chronicles",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "spooky"
+    },
+    {
+        "name": "Final Fantasy VII Remake: Quest",
+        "genre": "RPG",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Cyberpunk 2077: Origins",
+        "genre": "RPG",
+        "platforms": "PlayStation, Xbox, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Dark Souls III: Arena",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "It Takes Two: Odyssey",
+        "genre": "Adventure",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Dead by Daylight: Origins",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Stardew Valley: Frontiers",
+        "genre": "Simulation",
+        "platforms": "PlayStation, Switch",
+        "mood": "cozy"
+    },
+    {
+        "name": "Portal 2: Legends",
+        "genre": "Puzzle",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "relaxing"
+    },
+    {
+        "name": "The Sims 4: Origins",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "wholesome"
+    },
+    {
+        "name": "Forza Horizon 5: Adventures",
+        "genre": "Racing",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Elden Ring: Frontiers",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare: Adventures",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "intense"
+    },
+    {
+        "name": "Subnautica: Arena",
+        "genre": "Adventure",
+        "platforms": "PC, Switch, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Elden Ring: Quest",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Forza Horizon 5: Chronicles",
+        "genre": "Racing",
+        "platforms": "PC, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "Elden Ring: Arena",
+        "genre": "RPG",
+        "platforms": "PC, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "Monster Hunter: World: Saga",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Stardew Valley",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox",
+        "mood": "cozy"
+    },
+    {
+        "name": "Overwatch: Legends",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dark Souls III: Frontiers",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation",
+        "mood": "immersive"
+    },
+    {
+        "name": "Doom Eternal: Chronicles",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Hollow Knight: Odyssey",
+        "genre": "Platformer",
+        "platforms": "Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Cyberpunk 2077: Adventures",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Valorant: Legends",
+        "genre": "Shooter",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Monster Hunter: World: Origins",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Valorant: Quest",
+        "genre": "Shooter",
+        "platforms": "PC, Switch",
+        "mood": "competitive"
+    },
+    {
+        "name": "The Sims 4: Odyssey",
+        "genre": "Simulation",
+        "platforms": "Xbox, Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Slay the Spire: Origins",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Genshin Impact: Saga",
+        "genre": "RPG",
+        "platforms": "PC, Xbox, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Doom Eternal: Origins",
+        "genre": "Shooter",
+        "platforms": "PC, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Red Dead Redemption 2: Odyssey",
+        "genre": "Adventure",
+        "platforms": "PC, Switch",
+        "mood": "exciting"
+    },
+    {
+        "name": "Forza Horizon 5: Tactics",
+        "genre": "Racing",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Genshin Impact: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC",
+        "mood": "exciting"
+    },
+    {
+        "name": "Subnautica: Odyssey",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Switch, Mobile",
+        "mood": "immersive"
+    },
+    {
+        "name": "Overwatch: Chronicles",
+        "genre": "Shooter",
+        "platforms": "PlayStation, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Dark Souls III: Chronicles",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Cuphead: Adventures",
+        "genre": "Platformer",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Street Fighter V: Tactics",
+        "genre": "Fighting",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "competitive"
+    },
+    {
+        "name": "Doom Eternal: Tactics",
+        "genre": "Shooter",
+        "platforms": "PC, Switch",
+        "mood": "intense"
+    },
+    {
+        "name": "Resident Evil Village: Frontiers",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Switch",
+        "mood": "spooky"
+    },
+    {
+        "name": "Dead by Daylight: Legends",
+        "genre": "Horror",
+        "platforms": "PC",
+        "mood": "spooky"
+    },
+    {
+        "name": "Elden Ring: Odyssey",
+        "genre": "RPG",
+        "platforms": "PC, PlayStation, Xbox, Mobile",
+        "mood": "exciting"
+    },
+    {
+        "name": "Slay the Spire: Odyssey",
+        "genre": "Strategy",
+        "platforms": "PC, Xbox, Switch, Mobile",
+        "mood": "hardcore"
+    },
+    {
+        "name": "Cyberpunk 2077: Legends",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "The Sims 4: Saga",
+        "genre": "Simulation",
+        "platforms": "PC",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Ori and the Will of the Wisps: Legends",
+        "genre": "Platformer",
+        "platforms": "PC, PlayStation",
+        "mood": "exciting"
+    },
+    {
+        "name": "Resident Evil Village: Arena",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation",
+        "mood": "spooky"
+    },
+    {
+        "name": "Genshin Impact: Frontiers",
+        "genre": "RPG",
+        "platforms": "Xbox, Switch",
+        "mood": "immersive"
+    },
+    {
+        "name": "League of Legends: Quest",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "competitive"
+    },
+    {
+        "name": "The Sims 4: Quest",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox, Switch",
+        "mood": "relaxing"
+    },
+    {
+        "name": "Cyberpunk 2077: Quest",
+        "genre": "RPG",
+        "platforms": "PC",
+        "mood": "immersive"
+    },
+    {
+        "name": "Overwatch: Quest",
+        "genre": "Shooter",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Stardew Valley: Origins",
+        "genre": "Simulation",
+        "platforms": "PC, Xbox",
+        "mood": "wholesome"
+    },
+    {
+        "name": "It Takes Two: Arena",
+        "genre": "Adventure",
+        "platforms": "PC, Xbox",
+        "mood": "exciting"
+    },
+    {
+        "name": "Red Dead Redemption 2: Legends",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Minecraft: Arena",
+        "genre": "Sandbox",
+        "platforms": "PC",
+        "mood": "wholesome"
+    },
+    {
+        "name": "League of Legends: Origins",
+        "genre": "Strategy",
+        "platforms": "PC, PlayStation",
+        "mood": "competitive"
+    },
+    {
+        "name": "Celeste: Tactics",
+        "genre": "Platformer",
+        "platforms": "Mobile",
+        "mood": "cozy"
+    },
+    {
+        "name": "Among Us: Adventures",
+        "genre": "Simulation",
+        "platforms": "PC, Switch",
+        "mood": "cozy"
+    },
+    {
+        "name": "Dead by Daylight: Saga",
+        "genre": "Horror",
+        "platforms": "PC, PlayStation, Xbox",
+        "mood": "intense"
+    },
+    {
+        "name": "Monster Hunter: World: Frontiers",
+        "genre": "RPG",
+        "platforms": "PC, Xbox",
+        "mood": "immersive"
+    },
+    {
+        "name": "Among Us: Tactics",
+        "genre": "Simulation",
+        "platforms": "PC, Switch",
+        "mood": "cozy"
+    },
+    {
+        "name": "It Takes Two: Chronicles",
+        "genre": "Adventure",
+        "platforms": "PC, PlayStation, Xbox, Switch",
+        "mood": "immersive"
+    }
+]
